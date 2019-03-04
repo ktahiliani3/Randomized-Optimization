@@ -3,9 +3,9 @@ Please note that to run any of the code files, Jython 2.7.0 is required.
 
 Steps to run the code -
 
-1. Enter the ABAGAIL folder
+1. Download abagail from https://github.com/pushkar/ABAGAIL
 
-2. Open a Terminal, PowerShell, or other command line utility
+2. Open a Terminal, PowerShell, or other command line utility and go to the abagail folder
 
 3. Type "ant" 
 
